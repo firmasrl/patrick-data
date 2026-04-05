@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Best Games Educational Institution – TIGA 2025",
+        "summary": "The university has been named Best Educational Institution at the TIGA Games Industry Awards 2025, for the second year in a row, recognising our outstanding games education.",
+        "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=400"
+    },
+    {
+        "id": 2,
+        "title": "New Student Village Opens September 2026",
+        "summary": "Brand new stylish, sustainable accommodation is coming to campus with the Student Village and Village Hub, bringing modern living spaces right to the University Quarter.",
+        "imageUrl": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=400"
+    },
+    {
+        "id": 3,
+        "title": "Top 25 for Computer Science Student Satisfaction",
+        "summary": "The Department of Computing has been ranked in the top 25 for student satisfaction in Computer Science by the Complete University Guide 2024.",
+        "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400"
+    },
+    {
+        "id": 4,
+        "title": "Cyber Security Student Nominated for Youth Award",
+        "summary": "Final year BSc Cyber Security student Binita has been nominated for the Inspirational Youth Awards 2026 for inspiring young people to pursue STEAM careers.",
+        "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400"
+    },
+    {
+        "id": 5,
+        "title": "Computing Hackathon 2026 Registration Open",
+        "summary": "The annual 24-hour hackathon is back. Teams of up to 4 can register now. Prizes include internship opportunities with our industry partners Microsoft, Cisco and IBM.",
+        "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400"
+    }
+]
